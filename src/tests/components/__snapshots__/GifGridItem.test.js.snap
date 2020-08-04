@@ -1,0 +1,29 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Testin <GifGridItem /> It should render correctly 1`] = `
+<div
+  className="grid-item"
+>
+  <img
+    alt="Hola"
+    src="https://algo.com"
+  />
+  <p>
+    Hola
+  </p>
+</div>
+`;
+
+exports[`Testing <GifGridItem /> It should render correctly 1`] = `
+<div
+  className="grid-item"
+>
+  <img
+    alt="Hola"
+    src="https://algo.com"
+  />
+  <p>
+    Hola
+  </p>
+</div>
+`;
