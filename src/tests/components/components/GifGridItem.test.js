@@ -1,7 +1,7 @@
 import React from 'react';
 import '@testing-library/jest-dom';
 const { shallow } = require('enzyme');
-const { default: GifGridItem } = require('../../components/GifGridItem');
+const { default: GifGridItem } = require('../../../components/GifGridItem');
 
 describe('testing <GifGridItem />', () => {
   const title = 'Hola';
