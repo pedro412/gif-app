@@ -27,3 +27,17 @@ exports[`Testing <GifGridItem /> It should render correctly 1`] = `
   </p>
 </div>
 `;
+
+exports[`testing <GifGridItem /> it should render correctly 1`] = `
+<div
+  className="grid-item"
+>
+  <img
+    alt="Hola"
+    src="https://algo.com"
+  />
+  <p>
+    Hola
+  </p>
+</div>
+`;
